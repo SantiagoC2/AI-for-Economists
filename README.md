@@ -1,4 +1,4 @@
-# AI-for-Economists
+# AI tools for Economists
 Some tools for Economists to unlock the potential of LLMs
 
 ## Generative AI for Economic Research
@@ -15,7 +15,7 @@ Take a look at https://genaiforecon.org/. Relevant use cases and implications fo
     - Imprortant to give context/examples!
     - Useful to ask LLM to think (why?) before answering
    
-## General tools
+## Useful tools
 - Download ChatGPT desktop
   - Try voice mode
   - Canvas allows for more interactive prompting to elaborate sketches of anything
@@ -28,3 +28,6 @@ Take a look at https://genaiforecon.org/. Relevant use cases and implications fo
   - Start using git! The student developer package gives you GitHub pro and GitKraken
 - Use [Google Colab](https://colab.research.google.com/) to code online for free (supports Python, R & Julia)
   - Useful to share code and have same libraries with colleagues, install libraries you'll only use once, download temporary data and more
+- Transcribe audio
+  - You can upload audio to to Microsoft Word and it will transcribe it for you (then you can upload to ChatGPT for analysis/summary!)
+  - Google Docs can transcribe live!
