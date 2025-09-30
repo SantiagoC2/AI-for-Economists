@@ -14,6 +14,7 @@ Take a look at https://genaiforecon.org/. Relevant use cases and implications fo
   - Code to create a query, give context, upload data, and download.
     - Imprortant to give context/examples!
     - Useful to ask LLM to think (why?) before answering
+    - Use prompt optimizer and do a few tests in the [Playground](https://platform.openai.com/chat/edit?models=gpt-5)
    
 ## Useful tools
 - Download ChatGPT desktop
@@ -24,7 +25,7 @@ Take a look at https://genaiforecon.org/. Relevant use cases and implications fo
 - Use [VSCode](https://code.visualstudio.com/) for coding in almost any language (including R and Stata), LaTeX, Jupyter notebooks, visualizing data, and almost anything
   - Take advantage of LLMs and code with Copilot
     - Students and teachers get [free access](https://education.github.com/discount_requests/application)
-  - R is easy to get ready. STATA is only a bit trickier: [here](https://gdeiana.github.io/economics/stata-vscode/) and [here](https://github.com/wulizyk/Notebook_Stata/wiki/Run-STATA-in-VScode)
+  - R is easy to get ready. STATA is only a bit trickier: [here](https://github.com/gdeiana/Stata-in-VScode) and [here](https://github.com/wulizyk/Notebook_Stata/wiki/Run-STATA-in-VScode)
   - Start using git! The student developer package gives you GitHub pro and GitKraken
 - Use [Google Colab](https://colab.research.google.com/) to code online for free (supports Python, R & Julia)
   - Useful to share code and have same libraries with colleagues, install libraries you'll only use once, download temporary data and more
